@@ -1,0 +1,25 @@
+{
+	"transactions": [
+		{
+			"id": 1,
+			"type": "credit",
+			"amount": 500.10,
+			"date": "August 14th, 2015",
+			"description": "ATM Deposit"
+		},
+		{
+			"id": 2,
+			"type": "debit",
+			"amount": 10.00,
+			"date": "August 14th, 2015",
+			"description": "ATM Withdrawal"
+		},
+		{
+			"id": 3,
+			"type": "debit",
+			"amount": 250.99,
+			"date": "August 15th, 2015",
+			"description": "Groceries"
+		}		
+	]
+}
